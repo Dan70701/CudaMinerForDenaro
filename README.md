@@ -21,3 +21,7 @@ Requirement of OS ?
 More info on how to create a wallet or on how to install a node https://github.com/denaro-coin/denaro
 
 Website for Denaro coin -> https://denaro.is/
+
+Community :
+
+-Telegram Denaro https://t.me/denarogroup

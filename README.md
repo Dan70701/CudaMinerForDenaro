@@ -9,7 +9,7 @@
 
 ./dnGpuMiner -h (info)
 
-** Use all default settings as such : ./dnGpuMiner (SPACE) followed by your wallet address (SPACE) the node address **
+###### ** Use all default settings as such : ./dnGpuMiner (SPACE) followed by your wallet address (SPACE) the node address **
 ./dnGpuMiner DkP2PLYfTe4pzNyMbsLLuJTEx1G6C5TpH3ZcYv9EhNP3n http://NODEADDRESS:3006
 
 does it require a private node to mine?
